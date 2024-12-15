@@ -1,6 +1,6 @@
 # Pos_Tech_FIAP
 
-Trabalho para a pós tech da FIAP, referente a fase 3
+Trabalho para a pós tech da FIAP, referente a fase 3.
 
 Fonte dos dados: https://covid19.ibge.gov.br/pnad-covid/
 

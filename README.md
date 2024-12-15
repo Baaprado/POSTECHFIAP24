@@ -10,6 +10,6 @@ O Head de Dados pediu para que você entrasse na base de dados do PNAD-COVID-19 
 - Utilizar 3 meses para construção da solução;
 - Caracterização dos sintomas clínicos da população;
 - Comportamento da população na época da COVID-19;
-- Características econômicas da Sociedade
+- Características econômicas da Sociedade;
 
 Seu objetivo será trazer uma breve análise dessas informações, como foi a organização do banco, as perguntas selecionadas para a resposta do problema e quais seriam as principais ações que o hospital deverá tomar em caso de um novo surto de COVID-19.
